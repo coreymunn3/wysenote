@@ -99,7 +99,7 @@
     "serwist": "^9.5.4",
     "sharp": "^0.35.0",
     "tailwind-variants": "0.3.0",
-    "tailwindcss": "^3.4.16",
+    "tailwindcss": "^4.3.3",
     "typescript": "5.6.3"
   }
 }
